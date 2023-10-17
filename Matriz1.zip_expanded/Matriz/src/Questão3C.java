@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Questão3 {
+public class Questão3C {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
